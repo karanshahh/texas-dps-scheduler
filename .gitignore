@@ -1,9 +1,9 @@
 node_modules/*
-config.yml
+# config.yml
 dist/*
 yarn.lock
 package-lock.json
 pnpm-lock.yaml
-cache/*
+# cache/*
 .env
 .tool-versions
